@@ -1,7 +1,7 @@
 [**demo**](https://wonderful-easley-5aed11.netlify.com/) 
 
 This is an example of the [deck.gl](https://deck.gl/#/examples/core-layers/trips-layer) trips layer for Boston BLue Bikes.   
-The application is written by [github.com/stevekirks](https://github.com/stevekirks/deckgl-trips). 
+The application is developed by [github.com/stevekirks](https://github.com/stevekirks/deckgl-trips). 
 with few amendments from my side:
 - Application is adjusted for different region and data
 - Animation speed logic is changed to be able to adjust animation minutes per second of real time

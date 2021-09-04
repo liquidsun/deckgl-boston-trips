@@ -1,4 +1,4 @@
-## [**demo**](https://liquidsun.github.io/deckgl-boston-trips/) 
+## [**demo**](https://wonderful-easley-5aed11.netlify.app/) 
 
 This is an example of the [deck.gl](https://deck.gl/#/examples/core-layers/trips-layer) trips layer for Boston BLue Bikes.   
 The application is written by [github.com/stevekirks](https://github.com/stevekirks/deckgl-trips). 
